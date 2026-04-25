@@ -1,2 +1,1 @@
-# myfirstportfolio
-myfirstportfolio
+Lyndsay Lester's first portfolio multi-page webpage. The pages include the index, about, resume, and projects pages. 
