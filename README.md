@@ -1,1 +1,1 @@
-Lyndsay Lester's first portfolio multi-page webpage. The pages include the index, about, resume, and projects pages. 
+Lyndsay Lester's first portfolio multi-page webpage. The pages include the index, about, resume, and contact pages. 
